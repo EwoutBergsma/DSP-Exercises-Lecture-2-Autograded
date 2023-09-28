@@ -1,0 +1,4 @@
+# Using the command: pip install -r requirements.txt
+# Allows to install all necessary packages in one go
+pytest==7.2.2
+testbook==0.4.2
